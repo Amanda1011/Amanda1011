@@ -9,7 +9,7 @@
 
 <p>
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" scr="https://www.linkedin.com/in/amanda-pereira-8b1852235/"/></a>
+    <a href="https://www.linkedin.com/in/linkedin.com/in/amanda-pereira-8b1852235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p> 
 <div align="center">
   <a href="https://github.com/Amanda1011">
