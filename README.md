@@ -3,7 +3,6 @@
 ### Hello, devs!👋 Sou a Amanda, ou Mands! 👽✨
 - Front end Developer💻🦄
 - Estudante de Desenvolvimento de Sistemas 📚
-- Atualmente participando da Generation 🚀🚀
 - Apaixonada por indie rock e fotografia 🖤🎸📷
 
 
