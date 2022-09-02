@@ -10,7 +10,7 @@
   <a href="#" alt="Linkedin">
     <a href="https://www.linkedin.com/in/amanda-santos-8b1852235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p> 
- </div>
+</div>
 
 <div>
   <a href="https://github.com/Amanda1011">
